@@ -60,5 +60,5 @@ Este projeto utiliza técnicas de **aprendizado profundo** (YOLOv11) e **agrupam
 ## Instruções para Uso
 1. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/deteccao-copas-urbanas.git
+   git clone https://github.com/BrenoBragaGalvao/deteccao-copas-urbanas.git
    cd deteccao-copas-urbanas
